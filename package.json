@@ -1,7 +1,8 @@
 {
   "dependencies": {
     "colors": "^1.4.0",
-    "commander": "^11.1.0"
+    "commander": "^11.1.0",
+    "nanoid": "^5.0.4"
   },
   "name": "goit-node-cli",
   "version": "1.0.0",
@@ -12,5 +13,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "type": "module"
 }
